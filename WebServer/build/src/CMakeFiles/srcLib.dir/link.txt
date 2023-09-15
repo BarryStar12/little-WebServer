@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrcLib.a  CMakeFiles/srcLib.dir/http_connect.cpp.o
+/usr/bin/ranlib libsrcLib.a

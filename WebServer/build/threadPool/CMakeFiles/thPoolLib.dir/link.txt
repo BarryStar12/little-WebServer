@@ -1,0 +1,2 @@
+/usr/bin/ar qc libthPoolLib.a  CMakeFiles/thPoolLib.dir/sql_connectpool.c.o CMakeFiles/thPoolLib.dir/threadpool.cpp.o
+/usr/bin/ranlib libthPoolLib.a

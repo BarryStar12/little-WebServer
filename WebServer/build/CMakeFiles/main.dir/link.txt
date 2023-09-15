@@ -1,0 +1,1 @@
+g++   -std=c++11 -pthread  -O0 -Wall -g -ggdb  -rdynamic CMakeFiles/main.dir/main.cpp.o  -o main src/libsrcLib.a threadPool/libthPoolLib.a 
